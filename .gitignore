@@ -1,0 +1,10 @@
+
+*.history
+
+*.gen
+
+*.prefs
+
+*.nrm
+
+.metadata/.lock
